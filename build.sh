@@ -3,7 +3,7 @@
 set -o errexit
 
 #poetry install
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
 pip install sentry_sdk
 pip install django_countries
